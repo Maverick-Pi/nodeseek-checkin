@@ -1,0 +1,5 @@
+.env
+*.log
+fail.png
+board.png
+__pycache__/
