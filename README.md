@@ -9,7 +9,7 @@ NodeSeek 论坛每日自动签到脚本，部署在自己的 Linux 服务器上�
 本项目基于 **Patchright**（指纹修补版 Playwright），配合真实的 **Google Chrome** 和 **Xvfb** 虚拟显示环境，尽可能还原真人浏览器环境，以通过 Cloudflare Turnstile 人机验证。
 
 > [!WARNING]
-> 非官方项目，与 NodeSeek 无关。自动化操作可能不符合论坛规则，账号风险自负，详见文末[免责声明](#⚠️-免责声明)。
+> 非官方项目，与 NodeSeek 无关。自动化操作可能不符合论坛规则，账号风险自负，详见文末[免责声明](#️-免责声明)。
 
 ## ✨ 特性
 
